@@ -1,7 +1,15 @@
 # 计算机相关常见英语单词，带读音！
 列表中是计算机相关常见英语单词，大约2700词，熟练掌握后专业文档阅读无压力！
 
-blog:http://blog.zhaojishun.cn/articles/2020/01/20/1579502319310.html
+列表中是计算机相关常见英语单词，大约2700词，，熟练掌握后专业文档阅读无压力！
+
+在线文档地址：http://blog.zhaojishun.cn/articles/2020/01/20/1579502319310.html
+
+pdf：https://lanzous.com/icfykfg
+
+有道单词本导出文件：https://www.lanzoui.com/iWrbQhnn1qf
+
+![image-20201105172947942](http://img.zhaojishun.cn/img/image-20201105172947942.png)
 
 # A
 
